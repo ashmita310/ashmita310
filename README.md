@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashmita Saha</h1>
-<h3 align="center">Graphic Designer & Tech Enthusiast | Elevating Brands with Visual Creativity | Web Development Enthusiast</h3>
+<h3 align="center">Graphic Designer & Tech Enthusiast | Elevating Brands with Visual Creativity | Data Science Enthusiast</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **graphic designing**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1avrsz3yxBm43SoE6025x760nnbELi-pr/view?usp=sharing](https://drive.google.com/file/d/1avrsz3yxBm43SoE6025x760nnbELi-pr/view?usp=sharing)
 
-- ⚡ Fun fact **You cant roast me...,cause i'm a barbeque**
+- ⚡ Fun fact **You can't roast me...,cause i'm a barbeque**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
